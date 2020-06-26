@@ -1,0 +1,4 @@
+CREATE TABLE pessoa(
+id INTEGER PRIMARY KEY,
+nome VARCHAR(100)
+)
